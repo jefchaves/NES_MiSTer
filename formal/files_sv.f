@@ -1,0 +1,16 @@
+../rtl/sdram.sv
+../rtl/ddram.sv
+../rtl/cheatcodes.sv
+../rtl/miracle.sv
+../rtl/keyboard.sv
+../rtl/zapper.sv
+../rtl/cart.sv
+../rtl/video.sv
+../rtl/ppu.sv
+../rtl/apu.sv
+../rtl/regs_savestates.sv
+../rtl/savestate_ui.sv
+../rtl/nes.v
+../rtl/dsp.v
+../rtl/compat.v
+../NES.sv
